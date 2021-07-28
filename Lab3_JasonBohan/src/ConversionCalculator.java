@@ -24,6 +24,8 @@ public class ConversionCalculator extends Application {
 	public void start(Stage window) throws Exception {
 
 		window.setTitle("Conversion Calculator");
+		
+		//This is at the library 
 
 		// StackPane layoutPane = new StackPane();
 		// layoutPane.getChildren().add(lblCentimeters, lblInches,lblMeters,lblYards);
